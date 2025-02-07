@@ -1,4 +1,4 @@
-[![Daniel's Banner](https://raw.githubusercontent.com/desecurity/desecurity/main/banner.png)](https://desecurity.github.io/)
+[![Daniel's Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWoyeWc4Yzk3bmJleGcwbGIwZHZpeGNxcDdldDRnZGdudTN3MTFrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u9293Xrizd0tO/giphy.gif)](https://desecurity.github.io/)
 
 ## 👋 Welcome to My Cybersecurity Hub
 I'm **Daniel**, a cybersecurity and malware researcher, ethical hacker, and content creator dedicated to sharing knowledge about hacking, security threats, and open-source intelligence. I specialize in penetration testing, cyber deception, and network security.
