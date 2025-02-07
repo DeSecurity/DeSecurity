@@ -46,7 +46,7 @@ I'm **Daniel**, a cybersecurity and malware researcher, ethical hacker, and cont
 ## 📡 Connect with Me
 📫 **Website**: [desecurity.github.io](https://desecurity.github.io/)
 
-[![LinkedIn](https://raw.githubusercontent.com/desecurity/desecurity/main/linkedin.svg)](https://www.linkedin.com/in/desecurity/) 
+[![LinkedIn](https://raw.githubusercontent.com/desecurity/desecurity/main/linkedin.svg)]([https://www.linkedin.com/in/daniel-elizondo-608b128a/]) 
 [![Twitter](https://raw.githubusercontent.com/desecurity/desecurity/main/twitter.svg)](https://twitter.com/desecurity)
 [![YouTube](https://raw.githubusercontent.com/desecurity/desecurity/main/youtube.svg)](https://www.youtube.com/)
 
